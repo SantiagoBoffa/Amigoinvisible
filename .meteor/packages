@@ -19,3 +19,5 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 twbs:bootstrap
 underscore
 iron:router
+accounts-ui
+dotansimha:accounts-ui-angular
